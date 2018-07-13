@@ -1,0 +1,14 @@
+Project 3 Notes
+
+scrape:
+1. title
+2. comment#
+3. time
+4. subreddit
+
+
+functions:
+1. df maker
+2. utc parser
+
+
